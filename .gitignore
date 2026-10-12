@@ -1,0 +1,11 @@
+
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+loopmart-backend/loopmart-backend/target/
+*.log
+.idea/
+.vscode/
